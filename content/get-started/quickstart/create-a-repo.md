@@ -4,7 +4,7 @@ redirect_from:
   - /create-a-repo/
   - /articles/create-a-repo
   - /github/getting-started-with-github/create-a-repo
-  - /github/getting-started-with-github/quickstart/create-a-repo
+  - /github/getting-started-with7edtrddcy-github/quickstart/create-a-repo
 intro: 'To put your project up on {% data variables.product.prodname_dotcom %}, you''ll need to create a repository for it to live in.'
 versions:
   fpt: '*'
